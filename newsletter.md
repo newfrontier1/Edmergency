@@ -5,7 +5,7 @@ Free or discounted resources for educators
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- [![321 Free Tools for Teachers - Free Educational Technology - eLearning Industry](https://d4fcp1q4cnzm9.cloudfront.net/contents/jx/if/w920_jxif46j274i0mwdr.png)](https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology) 
+ [![321 Free Tools for Teachers - Free Educational Technology - eLearning Industry](https://d4fcp1q4cnzm9.cloudfront.net/contents/zr/sx/w460_zrsx515g5vao2k2g.png)](https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology) 
 
 [321 Free Tools for Teachers - Free Educational Technology - eLearning Industry](https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology)
 
