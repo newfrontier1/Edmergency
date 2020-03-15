@@ -3,19 +3,15 @@
 Free or discounted resources for educators
 ==========================================
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- [![321 Free Tools for Teachers - Free Educational Technology - eLearning Industry](https://d4fcp1q4cnzm9.cloudfront.net/contents/zr/sx/w460_zrsx515g5vao2k2g.png)](https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology) 
+[![321 Free Tools for Teachers - Free Educational Technology - eLearning Industry](https://d4fcp1q4cnzm9.cloudfront.net/contents/zr/sx/w460_zrsx515g5vao2k2g.png)](https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology) 
 
 [321 Free Tools for Teachers - Free Educational Technology - eLearning Industry](https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology)
 
 At this article you will find 321 Free Educational Technology Tools for teachers, online educators, instructors and eLearning professionals.
 
 [elearningindustry.com](https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology)
-
-  
-
- [![The 4̶9̶ 50 best educational websites and apps to learn new stuff for free](https://d4fcp1q4cnzm9.cloudfront.net/contents/zr/sx/w460_zrsx515g5vao2k2g.png)](https://medium.com/the-mission/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b) 
+---
+[![The 4̶9̶ 50 best educational websites and apps to learn new stuff for free](https://d4fcp1q4cnzm9.cloudfront.net/contents/zr/sx/w460_zrsx515g5vao2k2g.png)](https://medium.com/the-mission/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b) 
 
 [The 4̶9̶ 50 best educational websites and apps to learn new stuff for free](https://medium.com/the-mission/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b)
 
