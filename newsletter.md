@@ -10,14 +10,14 @@ Free or discounted resources for educators
 At this article you will find 321 Free Educational Technology Tools for teachers, online educators, instructors and eLearning professionals.
 
 [elearningindustry.com](https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology)
+
 ---
+
 [![The 4̶9̶ 50 best educational websites and apps to learn new stuff for free](https://d4fcp1q4cnzm9.cloudfront.net/contents/zr/sx/w460_zrsx515g5vao2k2g.png)](https://medium.com/the-mission/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b) 
 
 [The 4̶9̶ 50 best educational websites and apps to learn new stuff for free](https://medium.com/the-mission/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b)
 
-This article was originally published in my private newsletter.
-
-[medium.com](https://medium.com/the-mission/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b)
+---
 
  [![Adobe Enables Distance Learning Globally for Schools Impacted by COVID-19 | Adobe Blog](https://d4fcp1q4cnzm9.cloudfront.net/contents/xi/g0/w460_xig02t2fpcbtiu8k.png)](https://theblog.adobe.com/adobe-enables-distance-learning-globally-schools-impacted-covid-19/) 
 
@@ -25,7 +25,7 @@ This article was originally published in my private newsletter.
 
 The past few weeks have shown us that, even in times of uncertainty, our schools and business communities remain strong and resourceful, all while continuing to find crea...
 
-[theblog.adobe.com](https://theblog.adobe.com/adobe-enables-distance-learning-globally-schools-impacted-covid-19/)
+---
 
  [![(Completely) Free Online Courses on Alison® | Pick from 1350+](https://d4fcp1q4cnzm9.cloudfront.net/contents/b6/je/w460_b6je0q3f34z3uy0y.png)](https://alison.com/courses) 
 
@@ -33,7 +33,7 @@ The past few weeks have shown us that, even in times of uncertainty, our schools
 
 1350+ free online courses at CERTIFICATE / DIPLOMA LEVEL from US, India and UK Universities & Experts
 
-[alison.com](https://alison.com/courses)
+---
 
  [![We Are Here for You During Coronavirus - Blackboard Blog](https://d4fcp1q4cnzm9.cloudfront.net/contents/7e/zl/w460_7ezl6gx2097rdi34.png)](https://blog.blackboard.com/we-are-here-for-you-during-coronavirus/) 
 
