@@ -1,11 +1,11 @@
-![](https://d4fcp1q4cnzm9.cloudfront.net/post_headers/5o/4p/x1500_5o4p8wykj7efybag.png)
-
 Free or discounted resources for educators
 ==========================================
+![](https://d4fcp1q4cnzm9.cloudfront.net/post_headers/5o/4p/x1500_5o4p8wykj7efybag.png)
 
 [![321 Free Tools for Teachers - Free Educational Technology - eLearning Industry](https://d4fcp1q4cnzm9.cloudfront.net/contents/zr/sx/w460_zrsx515g5vao2k2g.png)](https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology)
 
 ### [321 Free Tools for Teachers - Free Educational Technology - eLearning Industry](https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology)
+
 At this article you will find 321 Free Educational Technology Tools for teachers, online educators, instructors and eLearning professionals.
 
 ---
@@ -24,7 +24,7 @@ The past few weeks have shown us that, even in times of uncertainty, our schools
 
 ---
 
- [![(Completely) Free Online Courses on Alison® | Pick from 1350+](https://d4fcp1q4cnzm9.cloudfront.net/contents/b6/je/w460_b6je0q3f34z3uy0y.png)](https://alison.com/courses) 
+[![(Completely) Free Online Courses on Alison® | Pick from 1350+](https://d4fcp1q4cnzm9.cloudfront.net/contents/b6/je/w460_b6je0q3f34z3uy0y.png)](https://alison.com/courses) 
 
 ### [(Completely) Free Online Courses on Alison® | Pick from 1350+](https://alison.com/courses)
 
@@ -37,8 +37,6 @@ The past few weeks have shown us that, even in times of uncertainty, our schools
 ### [We Are Here for You During Coronavirus - Blackboard Blog](https://blog.blackboard.com/we-are-here-for-you-during-coronavirus/)
 
 As a part of our Blackboard family, the health and safety of your education community is important to all of us at Blackboard. I know it is a stressful time for you and your teams as you make contingency preparations to ensure that you can keep instruc...
-
-[blog.blackboard.com](https://blog.blackboard.com/we-are-here-for-you-during-coronavirus/)
 
 ---
 
@@ -60,7 +58,7 @@ If your school is closed due to the COVID-19 virus please fill out this form to 
 
  [![OpenSource Canvas](https://d4fcp1q4cnzm9.cloudfront.net/contents/op/l5/w460_opl585tarp6d5b0i.png)](https://github.com/instructure/canvas-lms/wiki) 
 
-[OpenSource Canvas](https://github.com/instructure/canvas-lms/wiki)
+### [OpenSource Canvas](https://github.com/instructure/canvas-lms/wiki)
 
 The open LMS by Instructure, Inc. Contribute to instructure/canvas-lms development by creating an account on GitHub or use for self-hosting.
 
@@ -76,7 +74,7 @@ We’re taking action to support educators who are creating plans around school 
 
  [![Covid-19: Resources for Faculty and Institutions](https://d4fcp1q4cnzm9.cloudfront.net/contents/9s/fz/w460_9sfzcyt1hd9r7i8z.png)](https://www.cengage.com/covid-19-support/) 
 
-[Covid-19: Resources for Faculty and Institutions](https://www.cengage.com/covid-19-support/)
+### [Covid-19: Resources for Faculty and Institutions](https://www.cengage.com/covid-19-support/)
 
 If your institution is experiencing a campus closure due to COVID-19 (Corona Virus), take a look at these resources.
 
@@ -90,13 +88,14 @@ Tons of awesome courses in one awesome channel! Nicole Sweeney teaches you socio
 
 ---
 
- [![Crash Course](https://d4fcp1q4cnzm9.cloudfront.net/contents/t2/m3/w460_t2m3y2z9axsh8egq.jpeg)](https://thecrashcourse.com/) 
+[![Crash Course](https://d4fcp1q4cnzm9.cloudfront.net/contents/t2/m3/w460_t2m3y2z9axsh8egq.jpeg)](https://thecrashcourse.com/) 
 
 ### [Crash Course Website](https://thecrashcourse.com/)
 
 From courses like Astronomy to US History and Anatomy & Physiology it's got you covered with an awesome variety of AP high school curriculum topics. With various witty hosts at your service, you won't even notice you're getting smarter.
 
 ---
+
 [![CourseBuffet - Find free online courses from 200+ top universities like Harvard, Stanfo...](https://d4fcp1q4cnzm9.cloudfront.net/contents/l0/bx/w460_l0bx6jxmayq1vejl.jpg)](https://www.coursebuffet.com/) 
 
 ### [CourseBuffet - Find free online courses from 200+ top universities like Harvard, Stanfo...](https://www.coursebuffet.com/)
@@ -113,7 +112,7 @@ By Jeff Maggioncalda, CEO Coursera  The spread of the coronavirus (COVID-19) is
 
 ---
 
- [![Desmos | Beautiful, Free Math](https://d4fcp1q4cnzm9.cloudfront.net/contents/61/c4/w460_61c46e5a4ut8xyuz.png)](https://www.desmos.com/) 
+[![Desmos | Beautiful, Free Math](https://d4fcp1q4cnzm9.cloudfront.net/contents/61/c4/w460_61c46e5a4ut8xyuz.png)](https://www.desmos.com/) 
 
 ### [Desmos | Beautiful, Free Math](https://www.desmos.com/)
 Free & Awesome graph-based calculator
