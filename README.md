@@ -467,5 +467,3 @@ Zoom is temporarily lifting the 40-minute time limit on free Basic accounts for 
 ### [Teaching Effectively During Times of Disruption](https://docs.google.com/document/d/1ccsudB2vwZ_GJYoKlFzGbtnmftGcXwCIwxzf-jkkoCU/preview?fbclid=IwAR3HBPdkHtJvBrALfIfBvkGVRFuCjADAPXR7lu6I1KCLGCYpHPrNVGNbvK4)
 
 Teaching Effectively During Times of Disruption, for SIS and PWR Jenae Cohn, Academic Technology Specialist for PWR, jdcohn@stanford.edu Beth Seltzer, Academic Technology Specialist for Introductory Studies, bethseltzer@stanford.edu Find this again a...
-
----
